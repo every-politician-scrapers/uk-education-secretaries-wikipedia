@@ -1,157 +1,275 @@
 [
   {
     "item": {
-      "value": "Q333426",
-      "label": "E. F. L. Wood, 1st Earl of Halifax"
+      "value": "Q8007204",
+      "label": "William Cowper-Temple, 1st Baron Mount Temple"
     },
-    "statement": "Q333426$CDCFF6FF-5A88-463A-9C7E-4350B28011DF"
+    "replacedBy": {
+      "value": "Q338354",
+      "label": "Charles Adderley, 1st Baron Norton"
+    },
+    "start": {
+      "value": "1857-02-05T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1858-02-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q8007204$247C73A7-1AB0-41C5-8748-2D6E5FECEA77"
   },
   {
     "item": {
-      "value": "Q334385",
-      "label": "Herwald Ramsbotham, 1st Viscount Soulbury"
+      "value": "Q338354",
+      "label": "Charles Adderley, 1st Baron Norton"
     },
-    "statement": "Q334385$1199B901-D295-4550-8966-1D88A08EFE5E"
+    "replaces": {
+      "value": "Q8007204",
+      "label": "William Cowper-Temple, 1st Baron Mount Temple"
+    },
+    "replacedBy": {
+      "value": "Q334355",
+      "label": "Robert Lowe"
+    },
+    "start": {
+      "value": "1858-03-12T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1859-06-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q338354$D0D91594-5390-40FD-9C45-58C5A76F6B8D"
   },
   {
     "item": {
-      "value": "Q3497552",
-      "label": "Oliver Stanley"
+      "value": "Q334355",
+      "label": "Robert Lowe"
     },
-    "statement": "Q3497552$7884525C-32A7-4880-A575-AE30D91C0B38"
+    "replaces": {
+      "value": "Q338354",
+      "label": "Charles Adderley, 1st Baron Norton"
+    },
+    "replacedBy": {
+      "value": "Q335550",
+      "label": "Henry Bruce, 1st Baron Aberdare"
+    },
+    "start": {
+      "value": "1859-06-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1864-04-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334355$69FD4C46-839C-4E5F-95FB-6F54963A450D"
   },
   {
     "item": {
-      "value": "Q5341978",
-      "label": "Edward Boyle, Baron Boyle of Handsworth"
+      "value": "Q335550",
+      "label": "Henry Bruce, 1st Baron Aberdare"
     },
-    "statement": "Q5341978$251F72F3-EBF6-40A3-95F8-A2E77D11689A"
+    "replaces": {
+      "value": "Q334355",
+      "label": "Robert Lowe"
+    },
+    "replacedBy": {
+      "value": "Q333378",
+      "label": "Henry Lowry-Corry"
+    },
+    "start": {
+      "value": "1864-04-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1866-06-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q335550$66B0FC73-5EE4-44A0-9BBD-8CFA34216B68"
   },
   {
     "item": {
-      "value": "Q6143495",
-      "label": "James Stanhope, 7th Earl Stanhope"
+      "value": "Q333378",
+      "label": "Henry Lowry-Corry"
     },
-    "statement": "Q6143495$9E5311A1-E9E8-4EFC-A1BB-09473AA58C88"
+    "replaces": {
+      "value": "Q335550",
+      "label": "Henry Bruce, 1st Baron Aberdare"
+    },
+    "replacedBy": {
+      "value": "Q6679922",
+      "label": "Lord Robert Montagu"
+    },
+    "start": {
+      "value": "1866-06-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1867-03-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333378$465474CE-2D0C-4EA5-810F-59A6D6EF1FA7"
   },
   {
     "item": {
-      "value": "Q3101091",
-      "label": "Geoffrey Lloyd, Baron Geoffrey-Lloyd"
+      "value": "Q6679922",
+      "label": "Lord Robert Montagu"
     },
-    "statement": "Q3101091$5681DA46-AADD-4D13-B18A-5BBAB9799130"
+    "replaces": {
+      "value": "Q333378",
+      "label": "Henry Lowry-Corry"
+    },
+    "replacedBy": {
+      "value": "Q654942",
+      "label": "William Edward Forster"
+    },
+    "start": {
+      "value": "1867-03-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1868-12-01T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6679922$6D523C55-1B8A-40A6-A375-080055399583"
   },
   {
     "item": {
-      "value": "Q333216",
-      "label": "Augustine Birrell"
+      "value": "Q654942",
+      "label": "William Edward Forster"
     },
-    "statement": "Q333216$EF83AC24-8BC2-45BF-99B5-E4C7B38673E0"
+    "replaces": {
+      "value": "Q6679922",
+      "label": "Lord Robert Montagu"
+    },
+    "replacedBy": {
+      "value": "Q5311966",
+      "label": "Dudley Ryder, 3rd Earl of Harrowby"
+    },
+    "start": {
+      "value": "1868-12-09T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1874-02-17T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q654942$CFFB76A2-E919-4F23-8B70-ABBC9D6599A3"
   },
   {
     "item": {
-      "value": "Q1241117",
-      "label": "Eustace Percy, 1st Baron Percy of Newcastle"
+      "value": "Q5311966",
+      "label": "Dudley Ryder, 3rd Earl of Harrowby"
     },
-    "statement": "Q1241117$ACC8EEB4-C39E-4B52-AE1B-814EF3DE8C89"
+    "replaces": {
+      "value": "Q654942",
+      "label": "William Edward Forster"
+    },
+    "replacedBy": {
+      "value": "Q333628",
+      "label": "Lord George Hamilton"
+    },
+    "start": {
+      "value": "1874-03-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1878-04-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5311966$46ECBCF4-6FE8-413D-9A04-B60798FAC409"
   },
   {
     "item": {
-      "value": "Q5736213",
-      "label": "Herbrand Sackville, 9th Earl De La Warr"
+      "value": "Q333628",
+      "label": "Lord George Hamilton"
     },
-    "statement": "Q5736213$5CB23E1B-AB65-4F65-8215-F0F13F6AE10A"
+    "replaces": {
+      "value": "Q5311966",
+      "label": "Dudley Ryder, 3rd Earl of Harrowby"
+    },
+    "replacedBy": {
+      "value": "Q1834123",
+      "label": "A. J. Mundella"
+    },
+    "start": {
+      "value": "1878-04-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1880-04-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333628$0AB73790-490F-4055-819A-AC61FCD937A9"
   },
   {
     "item": {
-      "value": "Q332914",
-      "label": "David Eccles, 1st Viscount Eccles"
+      "value": "Q1834123",
+      "label": "A. J. Mundella"
     },
-    "statement": "Q332914$22849486-5734-44C9-99C1-D0CF5B7A5F0C"
+    "replaces": {
+      "value": "Q333628",
+      "label": "Lord George Hamilton"
+    },
+    "replacedBy": {
+      "value": "Q5345405",
+      "label": "Edward Stanhope"
+    },
+    "start": {
+      "value": "1880-05-03T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1885-06-09T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1834123$2878A371-241F-4A1B-82D3-D0C6BFA52638"
   },
   {
     "item": {
-      "value": "Q12411364",
-      "label": "Richard Law, 1st Baron Coleraine"
+      "value": "Q5345405",
+      "label": "Edward Stanhope"
     },
-    "statement": "Q12411364$B35B9F17-2DA6-420E-A15E-1DD7A283FF2F"
+    "replaces": {
+      "value": "Q1834123",
+      "label": "A. J. Mundella"
+    },
+    "replacedBy": {
+      "value": "Q4499092",
+      "label": "Henry Holland, 1st Viscount Knutsford"
+    },
+    "start": {
+      "value": "1885-06-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1885-09-17T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5345405$DB9E8C35-728E-4FA9-8B2C-1BE136EDB18F"
   },
   {
     "item": {
-      "value": "Q334362",
-      "label": "Fred Mulley"
+      "value": "Q4499092",
+      "label": "Henry Holland, 1st Viscount Knutsford"
     },
-    "statement": "Q334362$E5372EE2-080E-4AAC-ADB8-A109C314F814"
-  },
-  {
-    "item": {
-      "value": "Q332751",
-      "label": "Ellen Wilkinson"
+    "replaces": {
+      "value": "Q5345405",
+      "label": "Edward Stanhope"
     },
-    "statement": "Q332751$CC404D52-A88B-4AD4-B325-72F0EB5F9A94"
-  },
-  {
-    "item": {
-      "value": "Q333358",
-      "label": "Sir Charles Trevelyan, 3rd Baronet"
+    "replacedBy": {
+      "value": "Q333737",
+      "label": "Lyon Playfair, 1st Baron Playfair"
     },
-    "statement": "Q333358$EECE25B2-F5DD-492E-B537-5867B813CF90"
-  },
-  {
-    "item": {
-      "value": "Q334280",
-      "label": "Florence Horsbrugh, Baroness Horsbrugh"
+    "start": {
+      "value": "1885-09-17T00:00:00Z",
+      "precision": "11"
     },
-    "statement": "Q334280$AE7682AD-86F3-42C9-9352-F2040C7AB245"
-  },
-  {
-    "item": {
-      "value": "Q5545269",
-      "label": "George Tomlinson"
+    "end": {
+      "value": "1886-01-28T00:00:00Z",
+      "precision": "11"
     },
-    "statement": "Q5545269$144E2EAB-9909-4A1D-B6DA-F80DCEE00194"
-  },
-  {
-    "item": {
-      "value": "Q6305458",
-      "label": "Hastings Lees-Smith"
-    },
-    "statement": "Q6305458$1AB825AF-9DFA-4B74-B2EB-CABABC31F22C"
-  },
-  {
-    "item": {
-      "value": "Q208665",
-      "label": "Arthur Henderson"
-    },
-    "statement": "Q208665$E42F9CB8-D641-4592-9B1D-4B9496FD6AA0"
-  },
-  {
-    "item": {
-      "value": "Q333376",
-      "label": "Walter Runciman, 1st Viscount Runciman of Doxford"
-    },
-    "statement": "Q333376$A06E351A-5AF0-469A-BFDB-3BCF3EC04342"
-  },
-  {
-    "item": {
-      "value": "Q333442",
-      "label": "Herbert Fisher"
-    },
-    "statement": "Q333442$C2B2F260-5422-4349-A199-1225818B026C"
-  },
-  {
-    "item": {
-      "value": "Q334063",
-      "label": "Spencer Cavendish, 8th Duke of Devonshire"
-    },
-    "statement": "Q334063$8B218F20-F3A8-489C-ADE9-BB474A4C2800"
-  },
-  {
-    "item": {
-      "value": "Q5083121",
-      "label": "Charles Vane-Tempest-Stewart, 6th Marquess of Londonderry"
-    },
-    "statement": "Q5083121$015D6201-E284-42E1-B904-E55C82B655C1"
+    "statement": "Q4499092$B33AE215-02E4-446A-9F6C-A4A90202A7F6"
   },
   {
     "item": {
@@ -178,8 +296,177 @@
   },
   {
     "item": {
+      "value": "Q4499092",
+      "label": "Henry Holland, 1st Viscount Knutsford"
+    },
+    "replaces": {
+      "value": "Q333737",
+      "label": "Lyon Playfair, 1st Baron Playfair"
+    },
+    "replacedBy": {
+      "value": "Q13529930",
+      "label": "Sir William Hart Dyke, 7th Baronet"
+    },
+    "start": {
+      "value": "1886-08-03T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1887-01-25T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4499092$FD2124D7-53A9-4DA4-B8F8-A6E0036F384F"
+  },
+  {
+    "item": {
+      "value": "Q13529930",
+      "label": "Sir William Hart Dyke, 7th Baronet"
+    },
+    "replaces": {
+      "value": "Q4499092",
+      "label": "Henry Holland, 1st Viscount Knutsford"
+    },
+    "replacedBy": {
+      "value": "Q606299",
+      "label": "Sir Arthur Dyke Acland, 13th Baronet"
+    },
+    "start": {
+      "value": "1887-01-25T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1892-08-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q13529930$5228A985-B39C-45D0-A022-4D620F5D3DB5"
+  },
+  {
+    "item": {
+      "value": "Q606299",
+      "label": "Sir Arthur Dyke Acland, 13th Baronet"
+    },
+    "replaces": {
+      "value": "Q13529930",
+      "label": "Sir William Hart Dyke, 7th Baronet"
+    },
+    "replacedBy": {
+      "value": "Q5765264",
+      "label": "John Gorst"
+    },
+    "start": {
+      "value": "1892-08-25T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1895-06-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q606299$34A475F9-D8F4-42E2-A6FB-52C52D1C9A2B"
+  },
+  {
+    "item": {
+      "value": "Q5765264",
+      "label": "John Gorst"
+    },
+    "replaces": {
+      "value": "Q606299",
+      "label": "Sir Arthur Dyke Acland, 13th Baronet"
+    },
+    "replacedBy": {
+      "value": "Q334063",
+      "label": "Spencer Cavendish, 8th Duke of Devonshire"
+    },
+    "start": {
+      "value": "1895-07-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1902-08-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5765264$AD8296D5-E26C-4857-AB6D-A30F551445A6"
+  },
+  {
+    "item": {
+      "value": "Q334063",
+      "label": "Spencer Cavendish, 8th Duke of Devonshire"
+    },
+    "replaces": {
+      "value": "Q5765264",
+      "label": "John Gorst"
+    },
+    "replacedBy": {
+      "value": "Q5083121",
+      "label": "Charles Vane-Tempest-Stewart, 6th Marquess of Londonderry"
+    },
+    "start": {
+      "value": "1900-03-03T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1902-08-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334063$8B218F20-F3A8-489C-ADE9-BB474A4C2800"
+  },
+  {
+    "item": {
+      "value": "Q5083121",
+      "label": "Charles Vane-Tempest-Stewart, 6th Marquess of Londonderry"
+    },
+    "replaces": {
+      "value": "Q334063",
+      "label": "Spencer Cavendish, 8th Duke of Devonshire"
+    },
+    "replacedBy": {
+      "value": "Q333216",
+      "label": "Augustine Birrell"
+    },
+    "start": {
+      "value": "1902-08-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1905-12-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5083121$015D6201-E284-42E1-B904-E55C82B655C1"
+  },
+  {
+    "item": {
+      "value": "Q333216",
+      "label": "Augustine Birrell"
+    },
+    "replaces": {
+      "value": "Q5083121",
+      "label": "Charles Vane-Tempest-Stewart, 6th Marquess of Londonderry"
+    },
+    "replacedBy": {
       "value": "Q333710",
       "label": "Reginald McKenna"
+    },
+    "start": {
+      "value": "1905-12-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1907-01-23T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333216$EF83AC24-8BC2-45BF-99B5-E4C7B38673E0"
+  },
+  {
+    "item": {
+      "value": "Q333710",
+      "label": "Reginald McKenna"
+    },
+    "replaces": {
+      "value": "Q333216",
+      "label": "Augustine Birrell"
+    },
+    "replacedBy": {
+      "value": "Q333376",
+      "label": "Walter Runciman, 1st Viscount Runciman of Doxford"
     },
     "start": {
       "value": "1907-01-23T00:00:00Z",
@@ -193,8 +480,39 @@
   },
   {
     "item": {
+      "value": "Q333376",
+      "label": "Walter Runciman, 1st Viscount Runciman of Doxford"
+    },
+    "replaces": {
+      "value": "Q333710",
+      "label": "Reginald McKenna"
+    },
+    "replacedBy": {
       "value": "Q6114554",
       "label": "Jack Pease, 1st Baron Gainford"
+    },
+    "start": {
+      "value": "1908-04-12T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1911-10-23T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333376$A06E351A-5AF0-469A-BFDB-3BCF3EC04342"
+  },
+  {
+    "item": {
+      "value": "Q6114554",
+      "label": "Jack Pease, 1st Baron Gainford"
+    },
+    "replaces": {
+      "value": "Q333376",
+      "label": "Walter Runciman, 1st Viscount Runciman of Doxford"
+    },
+    "replacedBy": {
+      "value": "Q208665",
+      "label": "Arthur Henderson"
     },
     "start": {
       "value": "1911-01-01T00:00:00Z",
@@ -208,8 +526,39 @@
   },
   {
     "item": {
+      "value": "Q208665",
+      "label": "Arthur Henderson"
+    },
+    "replaces": {
+      "value": "Q6114554",
+      "label": "Jack Pease, 1st Baron Gainford"
+    },
+    "replacedBy": {
       "value": "Q336421",
       "label": "Robert Crewe-Milnes, 1st Marquess of Crewe"
+    },
+    "start": {
+      "value": "1915-05-25T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1916-08-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q208665$E42F9CB8-D641-4592-9B1D-4B9496FD6AA0"
+  },
+  {
+    "item": {
+      "value": "Q336421",
+      "label": "Robert Crewe-Milnes, 1st Marquess of Crewe"
+    },
+    "replaces": {
+      "value": "Q208665",
+      "label": "Arthur Henderson"
+    },
+    "replacedBy": {
+      "value": "Q333442",
+      "label": "Herbert Fisher"
     },
     "start": {
       "value": "1916-01-01T00:00:00Z",
@@ -220,6 +569,144 @@
       "precision": "10"
     },
     "statement": "Q336421$B373EF5C-3C04-4DB2-9D09-B57F1792B961"
+  },
+  {
+    "item": {
+      "value": "Q333442",
+      "label": "Herbert Fisher"
+    },
+    "replaces": {
+      "value": "Q336421",
+      "label": "Robert Crewe-Milnes, 1st Marquess of Crewe"
+    },
+    "replacedBy": {
+      "value": "Q333426",
+      "label": "E. F. L. Wood, 1st Earl of Halifax"
+    },
+    "start": {
+      "value": "1916-12-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1922-10-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333442$C2B2F260-5422-4349-A199-1225818B026C"
+  },
+  {
+    "item": {
+      "value": "Q333426",
+      "label": "E. F. L. Wood, 1st Earl of Halifax"
+    },
+    "replaces": {
+      "value": "Q333442",
+      "label": "Herbert Fisher"
+    },
+    "replacedBy": {
+      "value": "Q333358",
+      "label": "Sir Charles Trevelyan, 3rd Baronet"
+    },
+    "start": {
+      "value": "1922-10-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1924-01-22T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333426$0B8AFBC4-BE81-4B26-B218-0C63443DECBC"
+  },
+  {
+    "item": {
+      "value": "Q333358",
+      "label": "Sir Charles Trevelyan, 3rd Baronet"
+    },
+    "replaces": {
+      "value": "Q333426",
+      "label": "E. F. L. Wood, 1st Earl of Halifax"
+    },
+    "replacedBy": {
+      "value": "Q1241117",
+      "label": "Eustace Percy, 1st Baron Percy of Newcastle"
+    },
+    "start": {
+      "value": "1924-01-22T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1924-11-03T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333358$E42F90A4-AA09-4549-A685-508AA1D5A752"
+  },
+  {
+    "item": {
+      "value": "Q1241117",
+      "label": "Eustace Percy, 1st Baron Percy of Newcastle"
+    },
+    "replaces": {
+      "value": "Q333358",
+      "label": "Sir Charles Trevelyan, 3rd Baronet"
+    },
+    "replacedBy": {
+      "value": "Q333358",
+      "label": "Sir Charles Trevelyan, 3rd Baronet"
+    },
+    "start": {
+      "value": "1924-11-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1929-06-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1241117$ACC8EEB4-C39E-4B52-AE1B-814EF3DE8C89"
+  },
+  {
+    "item": {
+      "value": "Q333358",
+      "label": "Sir Charles Trevelyan, 3rd Baronet"
+    },
+    "replaces": {
+      "value": "Q1241117",
+      "label": "Eustace Percy, 1st Baron Percy of Newcastle"
+    },
+    "replacedBy": {
+      "value": "Q6305458",
+      "label": "Hastings Lees-Smith"
+    },
+    "start": {
+      "value": "1929-06-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1931-03-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333358$D05DA214-36B4-4F0B-AD56-51987B288B07"
+  },
+  {
+    "item": {
+      "value": "Q6305458",
+      "label": "Hastings Lees-Smith"
+    },
+    "replaces": {
+      "value": "Q333358",
+      "label": "Sir Charles Trevelyan, 3rd Baronet"
+    },
+    "replacedBy": {
+      "value": "Q5294786",
+      "label": "Donald Maclean"
+    },
+    "start": {
+      "value": "1931-03-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1931-08-24T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6305458$1AB825AF-9DFA-4B74-B2EB-CABABC31F22C"
   },
   {
     "item": {
@@ -246,6 +733,121 @@
   },
   {
     "item": {
+      "value": "Q333426",
+      "label": "E. F. L. Wood, 1st Earl of Halifax"
+    },
+    "replaces": {
+      "value": "Q5294786",
+      "label": "Donald Maclean"
+    },
+    "replacedBy": {
+      "value": "Q3497552",
+      "label": "Oliver Stanley"
+    },
+    "start": {
+      "value": "1932-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1935-06-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333426$A9705BA4-2020-4767-8913-15ACA00C8640"
+  },
+  {
+    "item": {
+      "value": "Q3497552",
+      "label": "Oliver Stanley"
+    },
+    "replaces": {
+      "value": "Q333426",
+      "label": "E. F. L. Wood, 1st Earl of Halifax"
+    },
+    "replacedBy": {
+      "value": "Q6143495",
+      "label": "James Stanhope, 7th Earl Stanhope"
+    },
+    "start": {
+      "value": "1935-06-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1937-05-28T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3497552$7884525C-32A7-4880-A575-AE30D91C0B38"
+  },
+  {
+    "item": {
+      "value": "Q6143495",
+      "label": "James Stanhope, 7th Earl Stanhope"
+    },
+    "replaces": {
+      "value": "Q3497552",
+      "label": "Oliver Stanley"
+    },
+    "replacedBy": {
+      "value": "Q5736213",
+      "label": "Herbrand Sackville, 9th Earl De La Warr"
+    },
+    "start": {
+      "value": "1937-05-28T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1938-10-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6143495$9E5311A1-E9E8-4EFC-A1BB-09473AA58C88"
+  },
+  {
+    "item": {
+      "value": "Q5736213",
+      "label": "Herbrand Sackville, 9th Earl De La Warr"
+    },
+    "replaces": {
+      "value": "Q6143495",
+      "label": "James Stanhope, 7th Earl Stanhope"
+    },
+    "replacedBy": {
+      "value": "Q334385",
+      "label": "Herwald Ramsbotham, 1st Viscount Soulbury"
+    },
+    "start": {
+      "value": "1938-10-27T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1940-04-03T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5736213$5CB23E1B-AB65-4F65-8215-F0F13F6AE10A"
+  },
+  {
+    "item": {
+      "value": "Q334385",
+      "label": "Herwald Ramsbotham, 1st Viscount Soulbury"
+    },
+    "replaces": {
+      "value": "Q5736213",
+      "label": "Herbrand Sackville, 9th Earl De La Warr"
+    },
+    "replacedBy": {
+      "value": "Q182035",
+      "label": "Rab Butler"
+    },
+    "start": {
+      "value": "1940-04-03T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1941-07-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334385$1199B901-D295-4550-8966-1D88A08EFE5E"
+  },
+  {
+    "item": {
       "value": "Q182035",
       "label": "Rab Butler"
     },
@@ -266,6 +868,213 @@
       "precision": "11"
     },
     "statement": "Q182035$A96EB436-5811-4D44-8BCE-3EC062E41372"
+  },
+  {
+    "item": {
+      "value": "Q12411364",
+      "label": "Richard Law, 1st Baron Coleraine"
+    },
+    "replaces": {
+      "value": "Q182035",
+      "label": "Rab Butler"
+    },
+    "replacedBy": {
+      "value": "Q332751",
+      "label": "Ellen Wilkinson"
+    },
+    "start": {
+      "value": "1945-05-25T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1945-07-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q12411364$B35B9F17-2DA6-420E-A15E-1DD7A283FF2F"
+  },
+  {
+    "item": {
+      "value": "Q332751",
+      "label": "Ellen Wilkinson"
+    },
+    "replaces": {
+      "value": "Q12411364",
+      "label": "Richard Law, 1st Baron Coleraine"
+    },
+    "replacedBy": {
+      "value": "Q5545269",
+      "label": "George Tomlinson"
+    },
+    "start": {
+      "value": "1945-08-03T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1947-02-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332751$CC404D52-A88B-4AD4-B325-72F0EB5F9A94"
+  },
+  {
+    "item": {
+      "value": "Q5545269",
+      "label": "George Tomlinson"
+    },
+    "replaces": {
+      "value": "Q332751",
+      "label": "Ellen Wilkinson"
+    },
+    "replacedBy": {
+      "value": "Q334280",
+      "label": "Florence Horsbrugh, Baroness Horsbrugh"
+    },
+    "start": {
+      "value": "1947-02-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1951-10-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5545269$144E2EAB-9909-4A1D-B6DA-F80DCEE00194"
+  },
+  {
+    "item": {
+      "value": "Q334280",
+      "label": "Florence Horsbrugh, Baroness Horsbrugh"
+    },
+    "replaces": {
+      "value": "Q5545269",
+      "label": "George Tomlinson"
+    },
+    "replacedBy": {
+      "value": "Q332914",
+      "label": "David Eccles, 1st Viscount Eccles"
+    },
+    "start": {
+      "value": "1951-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1954-10-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334280$AE7682AD-86F3-42C9-9352-F2040C7AB245"
+  },
+  {
+    "item": {
+      "value": "Q332914",
+      "label": "David Eccles, 1st Viscount Eccles"
+    },
+    "replaces": {
+      "value": "Q334280",
+      "label": "Florence Horsbrugh, Baroness Horsbrugh"
+    },
+    "replacedBy": {
+      "value": "Q175366",
+      "label": "Quintin Hogg, Baron Hailsham of St Marylebone"
+    },
+    "start": {
+      "value": "1954-10-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1957-01-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332914$36C670B0-C1E8-4815-9494-00BB70813423"
+  },
+  {
+    "item": {
+      "value": "Q175366",
+      "label": "Quintin Hogg, Baron Hailsham of St Marylebone"
+    },
+    "replaces": {
+      "value": "Q332914",
+      "label": "David Eccles, 1st Viscount Eccles"
+    },
+    "replacedBy": {
+      "value": "Q3101091",
+      "label": "Geoffrey Lloyd, Baron Geoffrey-Lloyd"
+    },
+    "start": {
+      "value": "1957-01-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1957-09-17T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q175366$3C260BA0-3013-4D79-B9CC-AA8357DDA3C2"
+  },
+  {
+    "item": {
+      "value": "Q3101091",
+      "label": "Geoffrey Lloyd, Baron Geoffrey-Lloyd"
+    },
+    "replaces": {
+      "value": "Q175366",
+      "label": "Quintin Hogg, Baron Hailsham of St Marylebone"
+    },
+    "replacedBy": {
+      "value": "Q332914",
+      "label": "David Eccles, 1st Viscount Eccles"
+    },
+    "start": {
+      "value": "1957-09-17T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1959-10-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3101091$5681DA46-AADD-4D13-B18A-5BBAB9799130"
+  },
+  {
+    "item": {
+      "value": "Q332914",
+      "label": "David Eccles, 1st Viscount Eccles"
+    },
+    "replaces": {
+      "value": "Q3101091",
+      "label": "Geoffrey Lloyd, Baron Geoffrey-Lloyd"
+    },
+    "replacedBy": {
+      "value": "Q5341978",
+      "label": "Edward Boyle, Baron Boyle of Handsworth"
+    },
+    "start": {
+      "value": "1959-10-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1962-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332914$E6E1E8CC-C9FD-44D7-A59A-02E5DF05C12F"
+  },
+  {
+    "item": {
+      "value": "Q5341978",
+      "label": "Edward Boyle, Baron Boyle of Handsworth"
+    },
+    "replaces": {
+      "value": "Q332914",
+      "label": "David Eccles, 1st Viscount Eccles"
+    },
+    "replacedBy": {
+      "value": "Q175366",
+      "label": "Quintin Hogg, Baron Hailsham of St Marylebone"
+    },
+    "start": {
+      "value": "1962-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1964-04-01T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5341978$251F72F3-EBF6-40A3-95F8-A2E77D11689A"
   },
   {
     "item": {
@@ -430,6 +1239,29 @@
   },
   {
     "item": {
+      "value": "Q334362",
+      "label": "Fred Mulley"
+    },
+    "replaces": {
+      "value": "Q4816857",
+      "label": "Reg Prentice, Baron Prentice"
+    },
+    "replacedBy": {
+      "value": "Q333250",
+      "label": "Shirley Williams"
+    },
+    "start": {
+      "value": "1975-06-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1976-09-10T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334362$E5372EE2-080E-4AAC-ADB8-A109C314F814"
+  },
+  {
+    "item": {
       "value": "Q333250",
       "label": "Shirley Williams"
     },
@@ -455,6 +1287,14 @@
     "item": {
       "value": "Q6767006",
       "label": "Mark Carlisle"
+    },
+    "replaces": {
+      "value": "Q333250",
+      "label": "Shirley Williams"
+    },
+    "replacedBy": {
+      "value": "Q333694",
+      "label": "Keith Joseph"
     },
     "start": {
       "value": "1979-05-05T00:00:00Z",
@@ -590,6 +1430,10 @@
       "value": "Q175162",
       "label": "John Patten, Baron Patten"
     },
+    "replacedBy": {
+      "value": "Q333058",
+      "label": "Gillian Shephard"
+    },
     "start": {
       "value": "1994-07-20T00:00:00Z",
       "precision": "11"
@@ -599,21 +1443,6 @@
       "precision": "11"
     },
     "statement": "Q333058$7EB17905-9761-4838-8E21-F6EC1CA5C5B6"
-  },
-  {
-    "item": {
-      "value": "Q264196",
-      "label": "David Blunkett"
-    },
-    "start": {
-      "value": "1994-10-20T00:00:00Z",
-      "precision": "11"
-    },
-    "end": {
-      "value": "1997-05-02T00:00:00Z",
-      "precision": "11"
-    },
-    "statement": "Q264196$3EF4B3A9-8701-4111-A0DF-A1DE21A8CE37"
   },
   {
     "item": {
@@ -642,6 +1471,14 @@
     "item": {
       "value": "Q264196",
       "label": "David Blunkett"
+    },
+    "replaces": {
+      "value": "Q333058",
+      "label": "Gillian Shephard"
+    },
+    "replacedBy": {
+      "value": "Q333326",
+      "label": "Estelle Morris, Baroness Morris of Yardley"
     },
     "start": {
       "value": "1997-05-02T00:00:00Z",
@@ -724,25 +1561,6 @@
   },
   {
     "item": {
-      "value": "Q272500",
-      "label": "Sarah Teather"
-    },
-    "replaces": {
-      "value": "Q296689",
-      "label": "Ed Davey"
-    },
-    "start": {
-      "value": "2006-03-03T00:00:00Z",
-      "precision": "11"
-    },
-    "end": {
-      "value": "2007-07-04T00:00:00Z",
-      "precision": "11"
-    },
-    "statement": "Q272500$1564F56F-C7C4-4D55-8CC8-FAE6DB047CDA"
-  },
-  {
-    "item": {
       "value": "Q332336",
       "label": "Alan Johnson"
     },
@@ -766,12 +1584,62 @@
   },
   {
     "item": {
+      "value": "Q260464",
+      "label": "Ed Balls"
+    },
+    "replaces": {
+      "value": "Q332336",
+      "label": "Alan Johnson"
+    },
+    "replacedBy": {
+      "value": "Q260464",
+      "label": "Ed Balls"
+    },
+    "start": {
+      "value": "2007-06-28T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2009-06-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q260464$280E5B5C-B23C-49B3-8ED0-5F2842B38C59"
+  },
+  {
+    "item": {
+      "value": "Q260464",
+      "label": "Ed Balls"
+    },
+    "replaces": {
+      "value": "Q260464",
+      "label": "Ed Balls"
+    },
+    "replacedBy": {
+      "value": "Q333937",
+      "label": "Michael Gove"
+    },
+    "start": {
+      "value": "2009-06-05T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q260464$DD9BC7A6-98EA-4E9F-B322-E97E925D0D6A"
+  },
+  {
+    "item": {
       "value": "Q333937",
       "label": "Michael Gove"
     },
     "replaces": {
       "value": "Q260464",
       "label": "Ed Balls"
+    },
+    "replacedBy": {
+      "value": "Q580375",
+      "label": "Nicky Morgan"
     },
     "start": {
       "value": "2010-05-12T00:00:00Z",
@@ -815,6 +1683,10 @@
       "value": "Q580375",
       "label": "Nicky Morgan"
     },
+    "replacedBy": {
+      "value": "Q676947",
+      "label": "Damian Hinds"
+    },
     "start": {
       "value": "2016-07-14T00:00:00Z",
       "precision": "11"
@@ -830,6 +1702,14 @@
       "value": "Q676947",
       "label": "Damian Hinds"
     },
+    "replaces": {
+      "value": "Q333012",
+      "label": "Justine Greening"
+    },
+    "replacedBy": {
+      "value": "Q262409",
+      "label": "Gavin Williamson"
+    },
     "start": {
       "value": "2018-01-08T00:00:00Z",
       "precision": "11"
@@ -844,6 +1724,10 @@
     "item": {
       "value": "Q262409",
       "label": "Gavin Williamson"
+    },
+    "replaces": {
+      "value": "Q676947",
+      "label": "Damian Hinds"
     },
     "start": {
       "value": "2019-07-24T00:00:00Z",
