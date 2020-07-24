@@ -70,7 +70,8 @@ class HolderItem < WikipediaTableRow
   end
 
   def name_cell
-    cells_headed('Name').last
+    # Cope with awkward table for Secretaries of State for Children, Schools and Families
+    cells_headed('Name').last || cells_headed('Children,')[1]
   end
 
   def start_date_cell
